@@ -1,2 +1,3 @@
 Hello, I am Member B.
 Learning Git and GitHub.
+Trying pull and compare request.
